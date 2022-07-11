@@ -63,6 +63,14 @@ public class MySQL {
 //	FROM ANIMAL_INS
 //	ORDER BY NAME ASC, DATETIME DESC;
 	
+	
+	//상위 n개 레코드
+//	SELECT NAME
+//	FROM ANIMAL_INS
+//	ORDER BY DATETIME ASC LIMIT 1;
+//LIMIT 를 이용해 상위 N개 행만 조회
+//limit 0, 1 : 위에서 0부터 1까지의 정보 추출
+//limit 1 : 위에서 1개의 정보 추출
 }
 
 
