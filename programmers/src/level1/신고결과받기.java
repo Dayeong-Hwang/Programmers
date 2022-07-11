@@ -46,10 +46,11 @@ public class 신고결과받기 {
 }
 
 
-//HashMap vs HashSet:https://siahn95.tistory.com/entry/Java%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-HashMap-HashSet-%EC%9D%B4%EB%9E%80-5-HashMap-vs-HashSet
+//HashMap vs HashSet:
 //HashMap은 중복 Key 값을 허용하지 않지만, 중복 Value 값은 허용한다.
 //ex. {'a': 1, 'b': 1, 'c': 2}
 //
 //HashSet은 객체 자체를 데이터로 저장하기 때문에 중복을 허용하지 않는다.
 //ex. {'a', 'b', 'c'}
 //풀이 참고 유튜브 : https://www.youtube.com/watch?v=w-zHRKAXeK0
+//참고 블로그:https://siahn95.tistory.com/entry/Java%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-HashMap-HashSet-%EC%9D%B4%EB%9E%80-5-HashMap-vs-HashSet
