@@ -8,6 +8,7 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59035">4. 역순 정렬하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59415">5. 최댓값 구하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59037">6. 어린 동물 찾기</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/92334?language=java">7. 신고 결과 받기</br>
 
 ### level2
 <a href="https://programmers.co.kr/learn/courses/30/lessons/42888">1. 오픈채팅방</br>
