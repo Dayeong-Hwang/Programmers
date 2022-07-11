@@ -1,0 +1,51 @@
+package level1;
+
+public class MySQL {
+
+	//이름이 없는 동물의 아이디
+// SELECT animal_id FROM animal_ins WHERE name IS NULL;
+	
+	
+	
+	//모든 레코드 조회하기
+//	SELECT ANIMAL_ID, ANIMAL_TYPE, DATETIME, INTAKE_CONDITION, NAME, SEX_UPON_INTAKE
+//	FROM ANIMAL_INS 
+//	ORDER BY  ANIMAL_ID ASC;
+	
+	
+	
+	//이름이 있는 동물의 아이디
+//	SELECT ANIMAL_ID 
+//	FROM ANIMAL_INS
+//	WHERE NAME IS NOT NULL
+//	ORDER BY ANIMAL_ID ASC;
+	
+	
+	
+	//역순 정렬하기
+//	SELECT NAME, DATETIME
+//	FROM ANIMAL_INS
+//	ORDER BY ANIMAL_ID DESC;
+	
+	
+	
+	
+	//어린 동물 찾기
+//	SELECT ANIMAL_ID, NAME
+//	FROM ANIMAL_INS 
+//	WHERE INTAKE_CONDITION NOT IN('Aged')
+//	ORDER BY ANIMAL_ID ASC;
+//  SELECT ANIMAL_ID , NAME FROM ANIMAL_INS WHERE INTAKE_CONDITION != "Aged"
+	
+	
+	
+	//최댓값 구하기
+//	SELECT MAX(DATETIME) AS "시간"
+//	FROM ANIMAL_INS;
+
+	
+	
+	
+}
+
+
