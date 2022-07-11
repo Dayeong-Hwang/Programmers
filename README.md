@@ -12,7 +12,7 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59036#fn1">8. 아픈 동물 찾기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59403">9. 동물의 아이디와 이름</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59404">10.여러 기준으로 정렬하기 ★ </br>
-<a href="">11. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59405">11.상위 n개 레코드★ </br>
 <a href="">12. </br>
 <a href="">13. </br>
 <a href="">14. </br>
