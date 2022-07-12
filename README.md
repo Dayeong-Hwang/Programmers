@@ -38,6 +38,11 @@
 <a href="">16. </br>
 
 
-
-
+### level3
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59042">1.없어진 기록 찾기 ★★★</br>
+<a href="">2. </br>
+<a href="">3. </br>
+<a href="">4. </br>
+<a href="">5. </br>
+<a href="">6. </br>
 
