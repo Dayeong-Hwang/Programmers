@@ -11,8 +11,8 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92334?language=java">7. 신고 결과 받기 ★</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59036#fn1">8. 아픈 동물 찾기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59403">9. 동물의 아이디와 이름</br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59404">10.여러 기준으로 정렬하기 ★ </br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59405">11.상위 n개 레코드★ </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59404">10. 여러 기준으로 정렬하기 ★ </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59405">11. 상위 n개 레코드★ </br>
 <a href="">12. </br>
 <a href="">13. </br>
 <a href="">14. </br>
@@ -26,7 +26,7 @@
 
 
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59040">3. 고양이와 개는 몇 마리 있을까★ </br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59046">4.루시와 엘라 찾기 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59046">4. 루시와 엘라 찾기 </br>
 <a href="">5. </br>
 <a href="">6. </br>
 <a href="">7. </br>
