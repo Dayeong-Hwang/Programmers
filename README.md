@@ -27,7 +27,7 @@
 
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59040">3. 고양이와 개는 몇 마리 있을까★ </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59046">4. 루시와 엘라 찾기 </br>
-<a href="">5. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59038">5. 최솟값 구하기★ </br>
 <a href="">6. </br>
 <a href="">7. </br>
 <a href="">8. </br>
