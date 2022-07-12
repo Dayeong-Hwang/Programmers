@@ -21,5 +21,14 @@
 
 ### level2
 <a href="https://programmers.co.kr/learn/courses/30/lessons/42888">1. 오픈채팅방</br>
-<a href="https://programmers.co.kr/learn/courses/30/lessons/43165">2. 타겟 넘버
+<a href="https://programmers.co.kr/learn/courses/30/lessons/43165">2. 타겟 넘버</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59040">3. 고양이와 개는 몇 마리 있을까 </br>
+<a href="">4. </br>
+<a href="">5. </br>
+<a href="">6. </br>
+<a href="">7. </br>
+<a href="">8. </br>
+<a href="">9. </br>
+<a href="">10. </br>
+
 
