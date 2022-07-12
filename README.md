@@ -38,6 +38,15 @@
 <a href="">16. </br>
 
 
+### level3
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59042">1.없어진 기록 찾기 ★★★</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59043">2. 있었는데요 없었습니다★★</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/77487">3. 헤비 유저가 소유한 장소 ★★</br>
 
 
+
+----------------
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59044">4. 오랜 기간 보호한 동물(1) ★★★</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59411">5.오랜 기간 보호한 동물(2) </br>
+<a href="">6. </br>
 
