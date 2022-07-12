@@ -31,8 +31,8 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59412">9. 입양 시각 구하기(1)★★ </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59410">10. NULL 처리하기★★</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59409">11. 중성화 여부 파악하기 ★★</br>
-<a href="">12. </br>
-<a href="">13. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59408">12. 중복 제거하기 ★★★</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59414">13. DATETIME에서 DATE로 형 변환 ★★★★</br>
 <a href="">14. </br>
 <a href="">15. </br>
 <a href="">16. </br>
