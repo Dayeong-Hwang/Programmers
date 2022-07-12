@@ -1,0 +1,118 @@
+package level2;
+
+public class MySQL {
+	
+	//고양이와 개는 몇 마리 있을까
+//	SELECT ANIMAL_TYPE, COUNT(ANIMAL_TYPE) AS count
+//	FROM ANIMAL_INS
+//	WHERE ANIMAL_TYPE IN ("Cat","Dog")
+//	GROUP BY ANIMAL_TYPE
+//	ORDER BY ANIMAL_TYPE ASC;
+	
+	
+	//루시와 엘라 찾기
+//	SELECT ANIMAL_ID, NAME, SEX_UPON_INTAKE
+//	FROM ANIMAL_INS 
+//	WHERE NAME IN("Lucy", "Ella", "Pickle", "Rogan", "Sabrina", "Mitty")
+//	ORDER BY ANIMAL_ID ASC;
+	
+	
+	//최솟값 구하기
+//	SELECT MIN(DATETIME) AS "시간"
+//	FROM ANIMAL_INS;
+	
+	
+	
+	//동명 동물 수 찾기
+//	SELECT NAME, COUNT(NAME) AS "COUNT"
+//	FROM ANIMAL_INS
+//	GROUP BY NAME
+//	HAVING COUNT(NAME) >= 2
+//	ORDER BY NAME ASC;
+	
+	
+	
+	
+	//이름에 el이 들어가는 동물 찾기
+//	SELECT ANIMAL_ID, NAME
+//	FROM ANIMAL_INS
+//	WHERE NAME LIKE '%el%' AND ANIMAL_TYPE = 'Dog'
+//	ORDER BY NAME ASC;
+	
+	
+	
+	//동물 수 구하기
+//	SELECT COUNT(*) AS count
+//	FROM ANIMAL_INS;
+	
+	
+	//입양 시각 구하기(1)
+	
+//	SELECT HOUR(DATETIME) AS HOUR, COUNT(DATETIME) AS COUNT
+//	FROM ANIMAL_OUTS 
+//	GROUP BY HOUR(DATETIME)
+//	HAVING HOUR >=9 AND HOUR <= 19
+//	ORDER BY HOUR(DATETIME) ASC;
+	
+//	TYPE이 DATETIME 인 데이터에서 시간만 추출하려면 HOUR을 사용
+//	SELECT HOUR(DATETIME) HOUR, COUNT(DATETIME) COUNT
+//	FROM ANIMAL_OUTS
+//	GROUP BY HOUR(DATETIME)
+//	HAVING HOUR >= 9 and HOUR <= 19
+	
+//	SELECT HOUR(DATETIME) HOUR, COUNT(DATETIME) COUNT
+//	FROM ANIMAL_OUTS
+//	WHERE HOUR(DATETIME) >= 9 AND HOUR(DATETIME) <= 19
+//	GROUP BY HOUR(DATETIME)	
+	
+	
+	//NULL 처리하기
+//	SELECT ANIMAL_TYPE, IFNULL(NAME,"No name") AS NAME, SEX_UPON_INTAKE
+//	FROM ANIMAL_INS 
+//	ORDER BY ANIMAL_ID ASC;
+	
+
+	
+	//중성화 여부 파악하기
+//	SELECT ANIMAL_ID, NAME, 
+//	CASE
+//	     WHEN SEX_UPON_INTAKE LIKE '%Neutered%'
+//	     OR  SEX_UPON_INTAKE LIKE '%Spayed%'
+//	THEN 'O'
+//	ELSE 'X'
+//	END AS "중성화"
+//	FROM ANIMAL_INS
+//	ORDER BY ANIMAL_ID;
+	
+//	SELECT ANIMAL_ID, NAME, 
+//	CASE
+//	    WHEN SEX_UPON_INTAKE LIKE 'Neutered%'
+//	    OR SEX_UPON_INTAKE LIKE 'Spayed%'
+//	    THEN 'O'
+//	    ELSE 'X'
+//	END 중성화
+//	FROM ANIMAL_INS 
+//	ORDER BY ANIMAL_ID;
+	
+	
+//중복 제거하기
+	
+//	SELECT COUNT(DISTINCT NAME) AS "count"
+//	FROM ANIMAL_INS
+//	WHERE NAME IS NOT NULL;
+//	동물의 이름 갯수를 조회하는 것이므로, NAME에 COUNT 함수를 적용
+//	컬럼 내 같은 데이터가 존재하면, 중복을 제거하기 위해 DISTINCT를 사용
+//	중복 데이터를 제거하고자 하는 열은 NAME 이므로, 옆에 DISTINCT 키워드를 붙임
+//	NULL 값이 아닌 것을 비교하는 방법은 IS NOT NULL 을 붙임
+
+//	SELECT COUNT(DISTINCT NAME)
+//	FROM ANIMAL_INS
+//	WHERE NAME IS NOT NULL
+	
+	
+	//DATETIME에서 DATE로 형 변환
+//	SELECT ANIMAL_ID, NAME, DATE_FORMAT(DATETIME,"%Y-%m-%d") AS "날짜"
+//	FROM ANIMAL_INS 
+//	ORDER BY ANIMAL_ID ASC;
+	
+}
