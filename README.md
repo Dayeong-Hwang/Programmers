@@ -22,16 +22,22 @@
 ### level2
 <a href="https://programmers.co.kr/learn/courses/30/lessons/42888">1. 오픈채팅방</br>
 <a href="https://programmers.co.kr/learn/courses/30/lessons/43165">2. 타겟 넘버</br>
-
-
-
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59040">3. 고양이와 개는 몇 마리 있을까★ </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59046">4. 루시와 엘라 찾기 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59038">5. 최솟값 구하기★ </br>
-<a href="">6. </br>
-<a href="">7. </br>
-<a href="">8. </br>
-<a href="">9. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59041">6.동명 동물 수 찾기 ★</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59047">7. 이름에 el이 들어가는 동물 찾기 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59406">8. 동물 수 구하기 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59412">9. 입양 시각 구하기(1)★★ </br>
 <a href="">10. </br>
+<a href="">11. </br>
+<a href="">12. </br>
+<a href="">13. </br>
+<a href="">14. </br>
+<a href="">15. </br>
+<a href="">16. </br>
+
+
+
 
 
