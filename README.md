@@ -29,8 +29,8 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59047">7. 이름에 el이 들어가는 동물 찾기 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59406">8. 동물 수 구하기 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59412">9. 입양 시각 구하기(1)★★ </br>
-<a href="">10. </br>
-<a href="">11. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59410">10. NULL 처리하기★★</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59409">11. 중성화 여부 파악하기 ★★</br>
 <a href="">12. </br>
 <a href="">13. </br>
 <a href="">14. </br>
