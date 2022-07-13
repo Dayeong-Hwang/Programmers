@@ -47,6 +47,6 @@
 
 ----------------
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59044">4. 오랜 기간 보호한 동물(1) ★★★</br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59411">5.오랜 기간 보호한 동물(2) </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59411">5.오랜 기간 보호한 동물(2) ★★</br>
 <a href="">6. </br>
 
