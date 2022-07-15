@@ -5,9 +5,9 @@
 ### level1
 #####  - JAVA
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77484">01. 로또의 최고 순위와 최저 순위</br>
-<a href="">13. </br>
-<a href="">14. </br>
-<a href="">15. </br>
+<a href="">02. </br>
+<a href="">03. </br>
+<a href="">04. </br>
 
 #####  - MySQL
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59039#">01. 이름이 없는 동물의 아이디</br>
@@ -49,11 +49,11 @@
 #####  - JAVA
 
 #####  - MySQL
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59042">1.없어진 기록 찾기 ★★★</br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59043">2. 있었는데요 없었습니다★★</br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/77487">3. 헤비 유저가 소유한 장소 ★★</br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59044">4. 오랜 기간 보호한 동물(1) ★★★</br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59411">5. 오랜 기간 보호한 동물(2) ★★★★</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59042">01.없어진 기록 찾기 ★★★</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59043">02. 있었는데요 없었습니다★★</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/77487">03. 헤비 유저가 소유한 장소 ★★</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59044">04. 오랜 기간 보호한 동물(1) ★★★</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59411">05. 오랜 기간 보호한 동물(2) ★★★★</br>
 <a href="">6. </br> 
 
 
@@ -61,11 +61,11 @@
 #####  - JAVA
 
 #####  - MySQL
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/62284">1. 우유와 요거트가 담긴 장바구니 </br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59045">2. 보호소에서 중성화한 동물</br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59413">3. 입양 시각 구하기(2) </br>
-<a href="">4. </br>
-<a href="">5. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/62284">01. 우유와 요거트가 담긴 장바구니 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59045">02. 보호소에서 중성화한 동물</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/59413">03. 입양 시각 구하기(2) </br>
+<a href="">04. </br>
+<a href="">05. </br>
 
 
 
