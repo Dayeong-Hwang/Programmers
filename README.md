@@ -54,7 +54,7 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77487">03. 헤비 유저가 소유한 장소 ★★</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59044">04. 오랜 기간 보호한 동물(1) ★★★</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59411">05. 오랜 기간 보호한 동물(2) ★★★★</br>
-<a href="">6. </br> 
+<a href="">06. </br> 
 
 
 ### level4 ★★★★
