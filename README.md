@@ -5,7 +5,7 @@
 ### level1
 #####  - JAVA
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77484">01. 로또의 최고 순위와 최저 순위</br>
-<a href="">02. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/72410">02.신규 아이디 추천 </br>
 <a href="">03. </br>
 <a href="">04. </br>
 
