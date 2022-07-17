@@ -9,7 +9,7 @@
 
 
 
-<a href=https://school.programmers.co.kr/learn/courses/30/lessons/81301"">03.숫자 문자열과 영단어 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301">03.숫자 문자열과 영단어 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67256">04. 키패드 누르기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64061">05. 크레인 인형뽑기 게임</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86051">06.없는 숫자 더하기</br>
