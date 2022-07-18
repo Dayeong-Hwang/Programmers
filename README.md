@@ -9,6 +9,23 @@
 
 
 
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12969">03. 직사각형 별찍기 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12950">04. 행렬의 덧셈</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12954">05. x만큼 간격이 있는 n개의 숫자</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12947">06. 하샤드 수</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12948">07. 핸드폰 번호 가리기</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12944">08. 평균 구하기</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12943">09. 콜라츠 추측</br>
+
+
+
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12940">10. 최대공약수와 최소공배수</br>
+
+
+
+
+
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301">03.숫자 문자열과 영단어 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67256">04. 키패드 누르기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64061">05. 크레인 인형뽑기 게임</br>
