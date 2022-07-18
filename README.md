@@ -6,9 +6,6 @@
 #####  - JAVA
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77484">01. 로또의 최고 순위와 최저 순위</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72410">02. 신규 아이디 추천 </br>
-
-
-
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12969">03. 직사각형 별찍기 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12950">04. 행렬의 덧셈</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12954">05. x만큼 간격이 있는 n개의 숫자</br>
@@ -68,9 +65,6 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59409">09. 중성화 여부 파악하기 ★★</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59408">10. 중복 제거하기 ★★★</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59414">11. DATETIME에서 DATE로 형 변환 ★★★★</br>
-<a href="">14. </br>
-<a href="">15. </br>
-<a href="">16. </br>
 
 
 ### level3
@@ -82,7 +76,6 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77487">03. 헤비 유저가 소유한 장소 ★★</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59044">04. 오랜 기간 보호한 동물(1) ★★★</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59411">05. 오랜 기간 보호한 동물(2) ★★★★</br>
-<a href="">06. </br> 
 
 
 ### level4 ★★★★
@@ -92,8 +85,6 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/62284">01. 우유와 요거트가 담긴 장바구니 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59045">02. 보호소에서 중성화한 동물</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59413">03. 입양 시각 구하기(2) </br>
-<a href="">04. </br>
-<a href="">05. </br>
 
 
 
