@@ -13,12 +13,24 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12948">07. 핸드폰 번호 가리기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12944">08. 평균 구하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12943">09. 콜라츠 추측</br>
-
-
-
-
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12940">10. 최대공약수와 최소공배수</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935">11. 제일 작은 수 제거하기 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12934">12. 정수 제곱근 판별</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12933">13. 정수 내림차순으로 배치하기</br>
 
+<a href="">14. </br>
+<a href="">15. </br>
+<a href="">16. </br>
+<a href="">17. </br>
+<a href="">18. </br>
+<a href="">19. </br>
+<a href="">20. </br>
+<a href="">21. </br>
+<a href="">22. </br>
+<a href="">23. </br>
+<a href="">24. </br>
+<a href="">25. </br>
+<a href="">26. </br>
 
 
 
