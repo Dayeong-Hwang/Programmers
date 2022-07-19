@@ -22,8 +22,8 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922">16. 수박수박수박수박수박수? </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12919">17. 서울에서 김서방 찾기 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12930">18. 이상한 문자 만들기 </br>
-<a href="">19. </br>
-<a href="">20. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12928">19. 약수의 합 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12926">20. 시저 암호</br>
 <a href="">21. </br>
 <a href="">22. </br>
 <a href="">23. </br>
