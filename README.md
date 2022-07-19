@@ -24,8 +24,8 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12930">18. 이상한 문자 만들기 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12928">19. 약수의 합 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12926">20. 시저 암호</br>
-<a href="">21. </br>
-<a href="">22. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12925">21. 문자열을 정수로 바꾸기 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12921">22. 소수 찾기</br>
 <a href="">23. </br>
 <a href="">24. </br>
 <a href="">25. </br>
