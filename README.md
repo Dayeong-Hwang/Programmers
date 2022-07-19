@@ -17,12 +17,11 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935">11. 제일 작은 수 제거하기 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12934">12. 정수 제곱근 판별</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12933">13. 정수 내림차순으로 배치하기</br>
-
-<a href="">14. </br>
-<a href="">15. </br>
-<a href="">16. </br>
-<a href="">17. </br>
-<a href="">18. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12932">14. 자연수 뒤집어 배열로 만들기 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12931">15. 자릿수 더하기 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922">16. 수박수박수박수박수박수? </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12919">17. 서울에서 김서방 찾기 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12930">18. 이상한 문자 만들기 </br>
 <a href="">19. </br>
 <a href="">20. </br>
 <a href="">21. </br>
