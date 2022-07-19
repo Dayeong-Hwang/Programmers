@@ -26,8 +26,8 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12926">20. 시저 암호</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12925">21. 문자열을 정수로 바꾸기 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12921">22. 소수 찾기</br>
-<a href="">23. </br>
-<a href="">24. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12918">23.문자열 다루기 기본 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12917">24. 문자열 내림차순으로 배치하기</br>
 <a href="">25. </br>
 <a href="">26. </br>
 
