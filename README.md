@@ -41,26 +41,8 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17682">32. [1차] 다트 게임</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612">33. 부족한 금액 계산하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17681">34. [1차] 비밀지도</br>
-<a href="">35. </br>
-<a href="">36. </br>
-<a href="">37. </br>
-<a href="">38. </br>
-<a href="">39. </br>
-<a href="">40. </br>
 
 
-
-
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301">03.숫자 문자열과 영단어 </br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/67256">04. 키패드 누르기</br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/64061">05. 크레인 인형뽑기 게임</br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/86051">06.없는 숫자 더하기</br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/76501">07.음양 더하기</br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/70128">08. 내적</br>
-<a href="">09. </br>
-<a href="">10. </br>
-<a href="">11. </br>
-<a href="">12. </br>
 
 #####  - MySQL
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59039#">01. 이름이 없는 동물의 아이디</br>
