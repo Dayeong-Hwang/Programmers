@@ -35,6 +35,7 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12910">30. 나누어 떨어지는 숫자 배열</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12903">31. 가운데 글자 가져오기 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612">32. 부족한 금액 계산하기</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/87389">33. 나머지가 1이 되는 수 찾기</br>
 
 ---
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17682">32. [1차] 다트 게임</br>
