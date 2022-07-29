@@ -48,7 +48,7 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/76501">39. 음양 더하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">40. 두 개 뽑아서 더하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301">41. 숫자 문자열과 영단어</br>
-
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12982">42. 예산</br>
 
 
 
