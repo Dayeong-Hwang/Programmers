@@ -49,12 +49,16 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">43. 모의고사</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">44. 폰켓몬</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77884">45. 약수의 개수와 덧셈</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42862">46. 체육복</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">47. 실패율 </br>
 
+<!--
 
-----
-
-
-
+<a href="">46. </br>
+<a href="">46. </br>
+<a href="">46. </br>
+<a href="">46. </br>
+-->
 
 
 #####  - MySQL
