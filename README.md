@@ -52,12 +52,16 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42862">46. 체육복</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">47. 실패율 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67256">46. 키패드 누르기</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/64061">47. 크레인 인형뽑기 게임</br>
+
+
 <!--
-
-
 <a href="">46. </br>
-<a href="">46. </br>
-<a href="">46. </br>
+<a href="">47. </br>
+<a href="">48. </br>
+<a href="">49. </br>
+<a href="">50. </br>
+<a href="">51. </br>
 -->
 
 
