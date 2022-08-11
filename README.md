@@ -53,10 +53,10 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">47. 실패율 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67256">46. 키패드 누르기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64061">47. 크레인 인형뽑기 게임</br>
-
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12977">48. 소수 만들기</br>
 
 <!--
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12977">48. 소수 만들기</br>
+
 <a href="">49. </br>
 <a href="">50. </br>
 <a href="">51. </br>
