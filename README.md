@@ -55,10 +55,9 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64061">47. 크레인 인형뽑기 게임</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12977">48. 소수 만들기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">49. K번째수 </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491">50. 최소직사각형</br>
+
 <!--
-
-
-<a href="">50. </br>
 <a href="">51. </br>
 <a href="">52. </br>
 <a href="">53. </br>
