@@ -57,10 +57,9 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">49. K번째수 </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491">50. 최소직사각형</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17681">51. [1차] 비밀지도</br>
-
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/17682">52. [1차] 다트 게임</br>
 
 <!--
-<a href="">52. </br>
 <a href="">53. </br>
 -->
 
