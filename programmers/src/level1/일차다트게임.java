@@ -42,7 +42,7 @@ class Solution {
 				idx++;
 				temp =""; 
 				break;
-                // T는 3제곱, 다음 점수를 위해 idx를 증가시키고 정수를 저장하는 temp를 초기화 
+                // T는 3제곱, 다음 점수를 위해 idx를 증가시키고 정수를 저장하는 temp를 초기화
 			case 'T':
 				darts[idx] = (int)Math.pow(Integer.parseInt(temp),3);
 				idx++;
