@@ -77,7 +77,15 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59404">10. 여러 기준으로 정렬하기 ★ </br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59405">11. 상위 n개 레코드★ </br>
 
-
+#####  - Oracle
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/133025?language=oracle">12. 과일로 만든 아이스크림 고르기</br>
+<a href="">13. </br>
+<a href="">14. </br>
+<a href="">15. </br>
+<a href="">16. </br>
+<a href="">17. </br>
+<a href="">18. </br>
+<a href="">19. </br>
 
 ### level2
 #####  - JAVA
