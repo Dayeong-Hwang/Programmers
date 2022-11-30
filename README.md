@@ -79,7 +79,7 @@
 
 #####  - Oracle
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133025?language=oracle">12. 과일로 만든 아이스크림 고르기</br>
-<a href="">13. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/133024">13. 인기있는 아이스크림</br>
 <a href="">14. </br>
 <a href="">15. </br>
 <a href="">16. </br>
