@@ -111,7 +111,7 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131529">14. 카테고리 별 상품 개수 구하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132202">15. 진료과별 총 예약 횟수 출력하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133026">16. 성분으로 구분한 아이스크림 총 주문량</br>
-<a href="">17. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131533">17. 상품 별 오프라인 매출 구하기</br>
 <a href="">18. </br>
 <a href="">19. </br>
 
