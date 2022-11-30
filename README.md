@@ -105,6 +105,16 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59408">10. 중복 제거하기 ★★★</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59414">11. DATETIME에서 DATE로 형 변환 ★★★★</br>
 
+#####  - Oracle
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131115">12. 가격이 제일 비싼 식품의 정보 출력하기</br>
+<a href="">13. </br>
+<a href="">14. </br>
+<a href="">15. </br>
+<a href="">16. </br>
+<a href="">17. </br>
+<a href="">18. </br>
+<a href="">19. </br>
+
 
 ### level3
 #####  - JAVA
