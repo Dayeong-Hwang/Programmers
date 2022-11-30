@@ -109,7 +109,7 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131115">12. 가격이 제일 비싼 식품의 정보 출력하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131120">13. 3월에 태어난 여성 회원 목록 출력하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131529">14. 카테고리 별 상품 개수 구하기</br>
-<a href="">15. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/132202">15. 진료과별 총 예약 횟수 출력하기</br>
 <a href="">16. </br>
 <a href="">17. </br>
 <a href="">18. </br>
