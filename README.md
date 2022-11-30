@@ -82,7 +82,7 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133024">13. 인기있는 아이스크림</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132203">14. 흉부외과 또는 일반외과 의사 목록 출력하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132201">15. 12세 이하인 여자 환자 목록 출력하기</br>
-<a href="">16.</br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131112">16. 강원도에 위치한 생산공장 목록 출력하기</br>
 <a href="">17. </br>
 <a href="">18. </br>
 <a href="">19. </br>
