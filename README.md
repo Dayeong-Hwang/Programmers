@@ -84,8 +84,10 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132201">15. 12세 이하인 여자 환자 목록 출력하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131112">16. 강원도에 위치한 생산공장 목록 출력하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131114?language=oracle">17. 경기도에 위치한 식품창고 목록 출력하기</br>
-<a href="">18. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131528">18. 나이 정보가 없는 회원 수 구하기</br>
 <a href="">19. </br>
+<a href="">20. </br>
+<a href="">21. </br>
 
 ### level2
 #####  - JAVA
