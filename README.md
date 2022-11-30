@@ -86,8 +86,7 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131114?language=oracle">17. 경기도에 위치한 식품창고 목록 출력하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131528">18. 나이 정보가 없는 회원 수 구하기</br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131697">19. 가장 비싼 상품 구하기</br>
-<a href="">20. </br>
-<a href="">21. </br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131535">20. 조건에 맞는 회원수 구하기</br>
 
 ### level2
 #####  - JAVA
